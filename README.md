@@ -8,9 +8,9 @@ Arduino Library derived from [joekickass/esp8266-arduino-aws-iot-ws](https://git
 
 | Library                   | Link                                                            | Use                 |
 |---------------------------|-----------------------------------------------------------------|---------------------|
-|arduinoWebSockets          |https://github.com/Links2004/arduinoWebSockets                   |websocket comm impl  |
-|PahoMQTT                   |https://projects.eclipse.org/projects/technology.paho/downloads  |mqtt comm impl       |
-|ArduinoJSON 6.5.0-beta     |https://github.com/bblanchon/ArduinoJson/releases                |data                 |
+|arduinoWebSockets          |https://github.com/Links2004/arduinoWebSockets                   |WebSocket comm impl  |
+|PahoMQTT                   |https://projects.eclipse.org/projects/technology.paho/downloads  |MQTT comm impl       |
+|ArduinoJSON 5.13.4         |https://github.com/bblanchon/ArduinoJson/releases/tag/v5.13.4    |Data Format          |
 |PubSubClient               |https://github.com/knolleary/pubsubclient                        |MQTT                 |
 
 
