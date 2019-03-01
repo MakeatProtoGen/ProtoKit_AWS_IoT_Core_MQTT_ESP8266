@@ -92,7 +92,7 @@ void Shadow_Get_Accepted()
       jsonString[i + 1] = (char)pch[i] ;
     }
 
-    //To obtain LED state using json commands
+    //To obtain LED state using JSON commands
     DynamicJsonBuffer jsonBuffer;
     JsonObject& root = jsonBuffer.parseObject(jsonString);
 
