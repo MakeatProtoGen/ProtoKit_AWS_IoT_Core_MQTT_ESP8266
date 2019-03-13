@@ -56,7 +56,7 @@ void setup() {
 
   if (result == 0)
   {
-    sprintf(publish_payload, "{\"state\":{\"reported\":{\"led\": %d}}}", led_state);
+    sprintf(publish_payload, "{\"state\":{\"reported\":{\"led\":%d}}}", led_state);
     Shadow_Update(publish_payload);
     Shadow_Get_Accepted();
   }
