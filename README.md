@@ -2,8 +2,6 @@
 
 Arduino Library derived from [joekickass/esp8266-arduino-aws-iot-ws](https://github.com/joekickass/esp8266-arduino-aws-iot-ws) to work with Arduino
 
-[![ESP8266 Amazon IoT](https://img.youtube.com/vi/AiCa6E_DBL8/0.jpg)](https://www.youtube.com/watch?v=AiCa6E_DBL8)
-
 ## Dependencies
 
 | Library                   | Link                                                            | Use                 |
@@ -13,6 +11,7 @@ Arduino Library derived from [joekickass/esp8266-arduino-aws-iot-ws](https://git
 |ArduinoJSON 5.13.4         |https://github.com/bblanchon/ArduinoJson/releases/tag/v5.13.4    |Data Format          |
 |PubSubClient               |https://github.com/knolleary/pubsubclient                        |MQTT                 |
 
+Make sure to install 2.4.0 version of ESP8266 platform package from the Boards Manager 
 
 ## Headers from [joekickass/esp8266-arduino-aws-iot-ws](https://github.com/joekickass/esp8266-arduino-aws-iot-ws)
 
