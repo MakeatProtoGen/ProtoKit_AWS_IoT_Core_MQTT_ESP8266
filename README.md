@@ -37,6 +37,3 @@ The library uses code from the following projects. License information can be fo
 
 In the case of missing license information, I took the liberty of adding it.
 
-## Architecture
-
-![class diagram](http://yuml.me/69df5325 "AWS IoT Websockets class diagram")
